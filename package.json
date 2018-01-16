@@ -1,0 +1,24 @@
+{
+  "name": "react-native-wtfssd-imagecompress",
+  "version": "1.0.0",
+  "description": "图片压缩组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WTFSSD/react-native-wtfssd-imagecompress.git"
+  },
+  "keywords": [
+    "reat-native",
+    "reactnative",
+    "图片压缩"
+  ],
+  "author": "wtfssd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WTFSSD/react-native-wtfssd-imagecompress/issues"
+  },
+  "homepage": "https://github.com/WTFSSD/react-native-wtfssd-imagecompress#readme"
+}
